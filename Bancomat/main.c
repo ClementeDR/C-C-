@@ -1,11 +1,6 @@
-#include <stdio.h>
 #include "bancomatfunction.h"
 
-
 #define INITIAL_BALANCE  10000
-
-
-
 
 int main() {
     int balance = INITIAL_BALANCE;
