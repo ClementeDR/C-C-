@@ -51,5 +51,15 @@ void endOperationMessages();
  */
 void saveOperation(operationNode * head, struct operation  aOperation);
 
+void saveOperationToFile(struct operation *aOperation);
 
+/***
+ * Load all operations
+ * @param head
+ */
+void loadOperations(operationNode * head, int *balance);
+
+char* concat(const char *s1, const char *s2);
+
+void ReadFile(operationNode *head, char *filename);
 #endif //BANCOMAT_BANCOMATFUNCTION_H

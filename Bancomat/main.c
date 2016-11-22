@@ -1,6 +1,7 @@
+#include <thread_db.h>
 #include "bancomatfunction.h"
 
-#define INITIAL_BALANCE  10000
+#define INITIAL_BALANCE  0
 
 int main() {
     int balance = INITIAL_BALANCE;
@@ -9,6 +10,16 @@ int main() {
     operationNode * head = NULL;
     head = malloc(sizeof(operationNode));
     head->next = NULL;
+
+
+    printf("Caricamento");
+    int vTempIndex;
+    for (vTempIndex = 0; vTempIndex < 5; ++vTempIndex) {
+        printf(".");
+    }
+    printf("\n");
+
+    loadOperations(head, &balance);
 
     do{
         menu();
@@ -31,7 +42,6 @@ int main() {
             case 3:
                 bankStatement(head, &balance);
                 break;
-
             default:
                 printf("Operazione non permessa \n");
                 break;
