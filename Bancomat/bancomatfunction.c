@@ -103,7 +103,7 @@ void saveOperationToFile(struct operation *aOperation){
     char *filename = FILE_NAME;
 
     FILE *mFile = fopen(filename,"a+");
-    if (!filename==NULL){
+    if (!filename == NULL){
         fprintf(mFile, "%d %s %lu\n",aOperation->amount, aOperation->operationType, aOperation->current_time);
     }
 
