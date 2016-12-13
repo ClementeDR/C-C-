@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/esercizi.cpp
+iostream
+-
+iomanip
+-
+esercizi.h
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/esercizi.h
+
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/esercizi.h
+
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/main.cpp
+iostream
+-
+esercizi.h
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/esercizi.h
+

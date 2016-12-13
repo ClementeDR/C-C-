@@ -1,0 +1,3 @@
+/home/cdr/Desktop/Git/C-C-/Camping/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdr/Desktop/Git/C-C-/Camping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdr/Desktop/Git/C-C-/Camping/cmake-build-debug/CMakeFiles/Camping.dir

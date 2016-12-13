@@ -1,0 +1,3 @@
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/cmake-build-debug/CMakeFiles/CPPEsercizi_13_12_2016.dir

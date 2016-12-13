@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=c99 -g   CMakeFiles/Camping.dir/main.c.o CMakeFiles/Camping.dir/camping.c.o  -o Camping 

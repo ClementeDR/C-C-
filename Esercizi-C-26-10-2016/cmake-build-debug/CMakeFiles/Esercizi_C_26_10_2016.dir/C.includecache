@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdr/Desktop/Git/C-C-/Esercizi-C-26-10-2016/esercizic.c
+esercizic.h
+/home/cdr/Desktop/Git/C-C-/Esercizi-C-26-10-2016/esercizic.h
+stdio.h
+-
+
+/home/cdr/Desktop/Git/C-C-/Esercizi-C-26-10-2016/esercizic.h
+
+/home/cdr/Desktop/Git/C-C-/Esercizi-C-26-10-2016/main.c
+stdio.h
+-
+esercizic.c
+/home/cdr/Desktop/Git/C-C-/Esercizi-C-26-10-2016/esercizic.c
+
