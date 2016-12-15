@@ -177,6 +177,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/CPPEsercizi_13_12_2016.dir/build.make CMakeFiles/CPPEsercizi_13_12_2016.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+matrix.o: matrix.cpp.o
+
+.PHONY : matrix.o
+
+# target to build an object file
+matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPEsercizi_13_12_2016.dir/build.make CMakeFiles/CPPEsercizi_13_12_2016.dir/matrix.cpp.o
+.PHONY : matrix.cpp.o
+
+matrix.i: matrix.cpp.i
+
+.PHONY : matrix.i
+
+# target to preprocess a source file
+matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPEsercizi_13_12_2016.dir/build.make CMakeFiles/CPPEsercizi_13_12_2016.dir/matrix.cpp.i
+.PHONY : matrix.cpp.i
+
+matrix.s: matrix.cpp.s
+
+.PHONY : matrix.s
+
+# target to generate assembly for a file
+matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPEsercizi_13_12_2016.dir/build.make CMakeFiles/CPPEsercizi_13_12_2016.dir/matrix.cpp.s
+.PHONY : matrix.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +219,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... matrix.o"
+	@echo "... matrix.i"
+	@echo "... matrix.s"
 .PHONY : help
 
 

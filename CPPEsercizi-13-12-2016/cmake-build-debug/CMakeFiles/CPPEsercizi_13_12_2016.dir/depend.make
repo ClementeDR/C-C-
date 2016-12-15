@@ -6,4 +6,8 @@ CMakeFiles/CPPEsercizi_13_12_2016.dir/esercizi.cpp.o: ../esercizi.h
 
 CMakeFiles/CPPEsercizi_13_12_2016.dir/main.cpp.o: ../esercizi.h
 CMakeFiles/CPPEsercizi_13_12_2016.dir/main.cpp.o: ../main.cpp
+CMakeFiles/CPPEsercizi_13_12_2016.dir/main.cpp.o: ../matrix.h
+
+CMakeFiles/CPPEsercizi_13_12_2016.dir/matrix.cpp.o: ../matrix.cpp
+CMakeFiles/CPPEsercizi_13_12_2016.dir/matrix.cpp.o: ../matrix.h
 

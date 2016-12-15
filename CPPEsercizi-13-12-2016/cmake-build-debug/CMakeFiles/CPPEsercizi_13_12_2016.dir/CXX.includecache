@@ -21,4 +21,16 @@ iostream
 -
 esercizi.h
 /home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/esercizi.h
+matrix.h
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.h
+
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.cpp
+cstdlib
+-
+matrix.h
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.h
+
+/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.h
+iostream
+-
 

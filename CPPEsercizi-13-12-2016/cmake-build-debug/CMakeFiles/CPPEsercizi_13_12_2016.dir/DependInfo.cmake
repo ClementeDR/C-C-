@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/esercizi.cpp" "/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/cmake-build-debug/CMakeFiles/CPPEsercizi_13_12_2016.dir/esercizi.cpp.o"
   "/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/main.cpp" "/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/cmake-build-debug/CMakeFiles/CPPEsercizi_13_12_2016.dir/main.cpp.o"
+  "/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.cpp" "/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/cmake-build-debug/CMakeFiles/CPPEsercizi_13_12_2016.dir/matrix.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

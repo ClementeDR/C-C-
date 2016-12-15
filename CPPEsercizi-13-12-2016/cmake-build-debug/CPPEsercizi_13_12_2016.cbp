@@ -93,6 +93,12 @@
 		<Unit filename="/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/main.cpp">
 			<Option target="CPPEsercizi_13_12_2016"/>
 		</Unit>
+		<Unit filename="/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.cpp">
+			<Option target="CPPEsercizi_13_12_2016"/>
+		</Unit>
+		<Unit filename="/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/matrix.h">
+			<Option target="CPPEsercizi_13_12_2016"/>
+		</Unit>
 		<Unit filename="/home/cdr/Desktop/Git/C-C-/CPPEsercizi-13-12-2016/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
